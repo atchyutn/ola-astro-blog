@@ -9,9 +9,9 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG', // Site author
-	title: 'Astro Theme OpenBlog', // Site title.
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', // Description to display in the meta tags
+	author: 'Atchyut', // Site author
+	title: 'Ola Electric Blog', // Site title.
+	description: 'Comprehensive blog dedicated to electric vehicles (EVs), featuring essential guides on EV basics, ownership tips, cost savings, model comparisons, and sustainability impact.', // Description to display in the meta tags
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
 	shareMessage: 'Share this post', // Message to share a post on social media
